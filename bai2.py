@@ -14,4 +14,8 @@ def phantichso(n):
 if __name__ == "__main__":
 
     n = int(input("Nhap so can phan tich: "))
+<<<<<<< HEAD
     print(phantichso(n))
+=======
+    print(phantichso(n))
+>>>>>>> f261b59900e4fee0dab65a768f71068383a9cdca
